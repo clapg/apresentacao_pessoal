@@ -4,7 +4,7 @@ Site estático de apresentação pessoal, desenvolvido com HTML e CSS como proje
 
 **Acesse o site:** [clapg.github.io/meu-portfolio-clarice](https://clapg.github.io/meu-portfolio-clarice/)
 
----
+
 
 ## Páginas
 
@@ -16,14 +16,14 @@ Site estático de apresentação pessoal, desenvolvido com HTML e CSS como proje
 | `portfolio.html` | Projetos de análise de dados |
 | `contato.html` | Canais de contato |
 
----
+
 
 ## Tecnologias
 
 - HTML5
 - CSS3
 
----
+
 
 ## Sobre mim
 
