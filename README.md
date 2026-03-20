@@ -7,7 +7,6 @@ Site estático de apresentação pessoal, desenvolvido com HTML e CSS como proje
 
 
 ## Páginas
-
 | Página | Descrição |
 |---|---|
 | `index.html` | Página inicial com apresentação |
@@ -19,14 +18,12 @@ Site estático de apresentação pessoal, desenvolvido com HTML e CSS como proje
 
 
 ## Tecnologias
-
 - HTML5
 - CSS3
 
 
 
 ## Sobre mim
-
 Pedagoga em transição para ciência de dados, com foco em projetos de impacto social e institucional. Atuo em uma instituição federal de ensino desenvolvendo análises voltadas para educação, evasão escolar e setor público.
 
 - [LinkedIn](https://www.linkedin.com/in/clarice-gouveia-94753344/)
