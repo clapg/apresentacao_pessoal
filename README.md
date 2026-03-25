@@ -2,7 +2,7 @@
 
 Site estático de apresentação pessoal, desenvolvido com HTML e CSS como projeto de portfólio profissional.
 
-**Acesse o site:** [clapg.github.io/meu-portfolio-clarice](https://clapg.github.io/meu-portfolio-clarice/)
+**Acesse o site:** https://clapg.github.io/apresentacao_pessoal/ 
 
 
 
